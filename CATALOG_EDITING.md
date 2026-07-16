@@ -87,6 +87,3 @@ Then:
 - Transitions
 - Windows controls/dialogues
 
-## Re-import the original Wayback files
-
-The importer at `scripts/import-catalog.mjs` can rebuild the JSON and copy all available archived icons from the two original source files. It is intended for a full re-import; normal edits should be made directly in `docs/data/extensions.json` so they are not overwritten.
