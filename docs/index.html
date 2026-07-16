@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A community archive of extensions for Multimedia Fusion 1.0 and 1.5.">
+    <title>MMF Extension Archive</title>
+    <link rel="icon" href="./assets/mmf-archive-icon.png">
+    <link rel="stylesheet" href="./assets/site.css">
+    <script src="./assets/site.js" defer></script>
+  </head>
+  <body>
+    <main class="window" aria-label="MMF Extension Archive catalog">
+      <div class="titlebar">
+        <img class="titlebar-logo" src="./assets/mmf-archive-icon.png" width="18" height="18" alt="">
+        <span>MMF Extension Archive</span>
+        <span class="titlebar-controls" aria-hidden="true">
+          <span class="titlebar-control">_</span>
+          <span class="titlebar-control">□</span>
+          <span class="titlebar-control">×</span>
+        </span>
+      </div>
+
+      <header class="masthead">
+        <div class="archive-icon-frame">
+          <img class="archive-icon" src="./assets/mmf-archive-icon.png" width="72" height="72" alt="MMF archive icon">
+        </div>
+        <div class="masthead-copy">
+          <h1>MMF Extension Archive</h1>
+          <p class="subtitle">Clickteam Multimedia Fusion 1.0 / 1.5 extensions.</p>
+        </div>
+      </header>
+
+      <div class="toolbar">
+        <label class="toolbar-label" for="extension-search">Search:</label>
+        <input class="search-input" id="extension-search" type="search" placeholder="Extension, author, description or filename" autocomplete="off">
+        <span class="toolbar-status" id="catalog-total">Loading catalog…</span>
+      </div>
+
+      <div class="catalog-layout">
+        <aside class="sidebar" aria-label="Archive navigation">
+          <div class="sidebar-inner">
+            <section class="group-box" aria-labelledby="browse-title">
+              <h2 class="group-title" id="browse-title">Browse</h2>
+              <ul class="category-list" id="category-list"></ul>
+            </section>
+
+            <section class="group-box" aria-labelledby="about-title">
+              <h2 class="group-title" id="about-title">About this collection</h2>
+              <p class="about-copy">
+                A community index of publicly released extensions for Clickteam's Multimedia Fusion 1.0 and 1.5.
+                To install copy the .cox files to your <span class="path">MMFusion\Programs\Extensions</span> folder.
+              </p>
+            </section>
+
+            <nav class="group-box" aria-labelledby="related-title">
+              <h2 class="group-title" id="related-title">Related archives</h2>
+              <ul class="related-links">
+                <li><a href="https://encyclofusion.github.io/GET/" target="_blank" rel="noopener noreferrer">Click &amp; Create / Multimedia Fusion Express / The Games Factory extensions</a></li>
+                <li><a href="https://dark-wire.com/storage/extlist.php" target="_blank" rel="noopener noreferrer">MMF2 / 2.5+ extensions</a></li>
+                <li>
+                  <a class="related-link-with-icon" href="https://kliktopia.org/index.html" target="_blank" rel="noopener noreferrer">
+                    <img class="related-logo" src="./assets/kliktopia-logo.png" width="26" height="26" alt="">
+                    <span>Kliktopia, Klik game archive</span>
+                  </a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </aside>
+
+        <section class="catalog-main" aria-labelledby="catalog-heading">
+          <div class="list-toolbar">
+            <div class="list-heading">
+              <h2 id="catalog-heading">All extensions</h2>
+              <span class="result-count" id="result-count" aria-live="polite">Loading entries…</span>
+            </div>
+            <label class="sort-control" for="sort-order">
+              <span>Order</span>
+              <select class="sort-select" id="sort-order">
+                <option value="name-asc">Extension name (A–Z)</option>
+                <option value="name-desc">Extension name (Z–A)</option>
+                <option value="author-asc">Author (A–Z)</option>
+                <option value="author-desc">Author (Z–A)</option>
+              </select>
+            </label>
+          </div>
+
+          <ol class="extension-list" id="extension-list"></ol>
+          <div class="empty-state" id="empty-state" hidden>No extensions match this part of the archive.</div>
+
+          <footer class="statusbar">
+            <span>Unofficial historical catalog · not affiliated with Clickteam</span>
+            <span>Temporary filenames will be replaced as files are identified</span>
+          </footer>
+        </section>
+      </div>
+    </main>
+  </body>
+</html>

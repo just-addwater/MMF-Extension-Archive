@@ -1,0 +1,112 @@
+<html>
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=o9P2E1FK" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.clickteam.info:80/extensions/","20061030001612","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1162167372");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+ <title>Clickteam Extension List</title>
+ <link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20061030001612cs_/http://www.clickteam.info/extensions/css/Default.css">
+</head>
+<body>
+
+<div id="headarea">
+<a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/" title="Return to Extension List home"><div id="headlogo"><span>Clickteam Extension List Home</span></div></a>
+<a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/forumlist.php"><div id="headforum"><span>Forums</span></div></a>
+<div id="headsearch"><form method="GET" action="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/search.php">
+Quick search: <input type="text" name="query" size="10"><br><select size="1" name="criteria">
+<option selected value="filename">by filename</option>
+<option value="name">by name</option>
+<option value="author">by author</option>
+<option value="description">in descriptions</option>
+<option value="all">all</option>
+</select>&nbsp;<input type="submit" value="Go" name="search"></form></div>
+<div id="headlogin">Developer <a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/login.php">Login</a> - <a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/newdev.php">Register</a></div>
+</div>
+<div id="links">
+<div id="linklinks">
+<p><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/">Home</a><br>
+<a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/advsearch.php">Advanced Search</a><br>
+<a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/forumlist.php">Forums</a><br>
+<a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/forumhelp.php">FAQ</a><br>
+<a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/resources.php">Dev Resources</a><br>
+<a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/login.php">Developer Login</a><br>
+<a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/newdev.php">Register</a><br><br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/examples.php">Browse Examples</a></p>
+</div>
+<div id="linkcategory"><h4>Browse extension list</h4>
+<p><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=">View all categories</a>
+<br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=1">Data Storage</a><br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=3">Date/Time</a><br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=8">Function/Looping</a><br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=13">Game objects</a><br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=2">Graphical</a><br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=9">Input</a><br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=10">Internet/Communication</a><br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=4">Maths</a><br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=7">Misc.</a><br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=11">Sound &amp; Music</a><br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=12">System</a><br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=5">Text manipulation</a><br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=14">Transitions</a><br><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/extlist.php?cat=6">Windows controls/dialogues</a></p></div>
+<div id="linksearch"><form method="GET" action="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/search.php"><h4>Search</h4>
+<p><input type="text" name="query" size="20"><br><select size="1" name="criteria">
+<option value="filename">by filename</option>
+<option value="name">by name</option>
+<option value="author">by author</option>
+<option value="description">in descriptions</option>
+<option value="all">all</option>
+</select>&nbsp;<input type="submit" value="Search" name="search"></p>
+</form></div>
+<div id="linkstyle"><form method="POST" action="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/changestyle.php"><input type="hidden" name="redir" value="/extensions/index.php">
+<h4>Change website style</h4>
+<p>Want a different look to the website? Change it here.</p>
+<p><select size="1" name="css">
+<option>Default</option>
+<option>DeepPurple</option>
+<option>BlueGrey</option>
+<option>Tigerworks</option>
+<option>Stylefree</option>
+</select> <input type="submit" value="Change" name="setcss"></p>
+</form><p>Want to make your own stylesheet? <a href="css/Template.css">Download the template</a>. Contact us when you're done and we'll add it.</p></div>
+</div>
+<div id="pagearea"><div id="pagearea2"><div id="homewelcome"><h4>Welcome!</h4>
+  <p>Looking for an extension, or just want to see how you can
+      extend MMF's power? You can do both at the Clickteam Extension List. Use
+      the quick search facility at the top of the page or browse through the
+      categories - it's up to you.</p>
+      <p>If you're an extension developer and you want to share an extension, <a href="newdev.php">register
+      an account</a> - from there you can submit your extensions, get a
+      developer profile, and manage bug-tracking and feature forums for each
+      extension.</p>
+  <p>Once you have downloaded extensions, read the instructions (if any) and copy the file to your MMFusion\Programs\Extensions folder. You can also use <a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/bin/MMFExt.zip">MMFExt</a>, a handy tool that lets you copy extensions to the correct folder just by clicking the extension itself.<i> (Note: this is a third-party app and won't be supported on the forums)</i></p>
+</div>
+<div id="homenews"><h4>News</h4>
+<p style="font-size: larger"><a href="https://web.archive.org/web/20061030001612/http://www.cellosoft.com/extensions/">Cellosoft</a> have just released all their extensions for free! There is no more fee to use these extensions commercially. <a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/devview.php?id=12">Click here for a list of all their extensions.</a></p>
+<p><b>Bonus Pack 3 is here</b> and brings 11 excellent extensions plus 3 Pro-only extensions! Is it the best yet? Maybe you should see for yourself:</p>
+<h3><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.com/webftp/files/8/2/BonusPack3.exe">Download Bonus Pack 3</a></h3></div>
+
+<div id="homefeatured"><h4>Featured extensions</h4><table class="blanktable">
+        <tr>          <td nowrap><img src="https://web.archive.org/web/20061030001612im_/http://www.clickteam.info/extensions/extimg/343.png" width="32" height="32"></td>          <td width="100%"><a href="extview.php?id=343">Lens</a></td>          <td nowrap>by <a href="devview.php?id=234">Andos</a></td>        </tr>        <tr>          <td width="100%" colspan="3">While it may be nothing more than a fancy effect, it's still very versatile and very effective. Whether you want to create an invisibility cloak, fish-eye lens, glaciers or a copy of the Science screen-saver, you can bring your games to life with the Lens object.</td>        </tr>        <tr>          <td nowrap><img src="https://web.archive.org/web/20061030001612im_/http://www.clickteam.info/extensions/extimg/338.png" width="32" height="32"></td>          <td width="100%"><a href="extview.php?id=338">Advanced Path Movement</a></td>          <td nowrap>by <a href="devview.php?id=44">Alien</a></td>        </tr>        <tr>          <td width="100%" colspan="3">One of the most frequently requested features for MMF2 was a branching path movement - now it's a current feature of MMF 1.5! The Advanced Path Movement helps you create more 'intelligent' movement patterns and control freedom of movement.</td>        </tr>        <tr>          <td nowrap><img src="https://web.archive.org/web/20061030001612im_/http://www.clickteam.info/extensions/extimg/337.png" width="32" height="32"></td>          <td width="100%"><a href="extview.php?id=337">Advanced Game Board Object</a></td>          <td nowrap>by <a href="devview.php?id=234">Andos</a></td>        </tr>        <tr>          <td width="100%" colspan="3">If you've ever tried to make a tile-based puzzle game, you will know how much effort it takes to do what you want - so the arrival of the Advanced Game Board object should be much appreciated. And if you've spent many hundreds of hours and events on your game already, why not make a sequel just so you can unlock the power of AGBO?</td>        </tr></table></div>
+<div id="homelatest"><h4>Latest extensions!</h4><table class="blanktable">
+        <tr>          <td nowrap><img src="https://web.archive.org/web/20061030001612im_/http://www.clickteam.info/extensions/extimg/387.png" width="32" height="32"></td>          <td width="100%"><a href="extview.php?id=387">Platform Swing</a></td>          <td nowrap>by <a href="devview.php?id=75">vortex2</a></td>        </tr>        <tr>          <td nowrap><img src="https://web.archive.org/web/20061030001612im_/http://www.clickteam.info/extensions/extimg/386.gif" width="32" height="32"></td>          <td width="100%"><a href="extview.php?id=386">Viewport Object</a></td>          <td nowrap>by <a href="devview.php?id=234">Andos</a></td>        </tr>        <tr>          <td nowrap><img src="https://web.archive.org/web/20061030001612im_/http://xinok.spatang.com/ext/filetime.png" width="32" height="32"></td>          <td width="100%"><a href="extview.php?id=385">FileTime</a></td>          <td nowrap>by <a href="devview.php?id=171">Xinok</a></td>        </tr>        <tr>          <td nowrap><img src="https://web.archive.org/web/20061030001612im_/http://xinok.spatang.com/ext/fmod.png" width="32" height="32"></td>          <td width="100%"><a href="extview.php?id=384">FMod</a></td>          <td nowrap>by <a href="devview.php?id=171">Xinok</a></td>        </tr>        <tr>          <td nowrap><img src="https://web.archive.org/web/20061030001612im_/http://www.clickteam.info/extensions/extimg/383.gif" width="32" height="32"></td>          <td width="100%"><a href="extview.php?id=383">Nobu HTTP</a></td>          <td nowrap>by <a href="devview.php?id=282">NobuhikoAkiduki</a></td>        </tr></table></div>
+
+	<p>&nbsp;</p>
+	<p align="center"><font size="-1"><a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/forumhelp.php">Terms of Service / FAQ</a> - <a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/credits.php">Credits / Contact us</a> - <a href="https://web.archive.org/web/20061030001612/http://www.clickteam.info/extensions/online.php">Who's Online</a></font></p>
+	<p align="center">Website design and scripts are © <a href="https://web.archive.org/web/20061030001612/http://www.starfishgames.co.uk/">Chris Branch</a>, 2004.</p>
+	</div></div></body>
+	</html><!--
+     FILE ARCHIVED ON 00:16:12 Oct 30, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:52:29 Jul 16, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  capture_cache.get: 0.48
+  captures_list: 0.662
+  exclusion.robots: 0.052
+  exclusion.robots.policy: 0.038
+  esindex: 0.013
+  cdx.remote: 5.324
+  LoadShardBlock: 73.256 (3)
+  PetaboxLoader3.datanode: 94.847 (4)
+  load_resource: 118.371
+  PetaboxLoader3.resolve: 73.112
+-->

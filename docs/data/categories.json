@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Data Storage",
+    "id": 1,
+    "sourceUrl": "https://web.archive.org/web/20060213101228/http://www.clickteam.info/extensions/extlist.php?cat=1"
+  },
+  {
+    "name": "Date/Time",
+    "id": 3,
+    "sourceUrl": "https://web.archive.org/web/20060213101228/http://www.clickteam.info/extensions/extlist.php?cat=3"
+  },
+  {
+    "name": "Function/Looping",
+    "id": 8,
+    "sourceUrl": "https://web.archive.org/web/20060213101228/http://www.clickteam.info/extensions/extlist.php?cat=8"
+  },
+  {
+    "name": "Game objects",
+    "id": 13,
+    "sourceUrl": "https://web.archive.org/web/20060213101228/http://www.clickteam.info/extensions/extlist.php?cat=13"
+  },
+  {
+    "name": "Graphical",
+    "id": 2,
+    "sourceUrl": "https://web.archive.org/web/20060213101228/http://www.clickteam.info/extensions/extlist.php?cat=2"
+  },
+  {
+    "name": "Input",
+    "id": 9,
+    "sourceUrl": "https://web.archive.org/web/20060213101228/http://www.clickteam.info/extensions/extlist.php?cat=9"
+  },
+  {
+    "name": "Internet/Communication",
+    "id": 10,
+    "sourceUrl": "https://web.archive.org/web/20060213101228/http://www.clickteam.info/extensions/extlist.php?cat=10"
+  },
+  {
+    "name": "Maths",
+    "id": 4,
+    "sourceUrl": "https://web.archive.org/web/20060213101228/http://www.clickteam.info/extensions/extlist.php?cat=4"
+  },
+  {
+    "name": "Misc.",
+    "id": 7,
+    "sourceUrl": "https://web.archive.org/web/20060213101228/http://www.clickteam.info/extensions/extlist.php?cat=7"
+  },
+  {
+    "name": "Sound & Music",
+    "id": 11,
+    "sourceUrl": "https://web.archive.org/web/20060213101228/http://www.clickteam.info/extensions/extlist.php?cat=11"
+  },
+  {
+    "name": "System",
+    "id": 12,
+    "sourceUrl": "https://web.archive.org/web/20060213101228/http://www.clickteam.info/extensions/extlist.php?cat=12"
+  },
+  {
+    "name": "Text manipulation",
+    "id": 5,
+    "sourceUrl": "https://web.archive.org/web/20060213101228/http://www.clickteam.info/extensions/extlist.php?cat=5"
+  },
+  {
+    "name": "Transitions",
+    "id": 14,
+    "sourceUrl": "https://web.archive.org/web/20060213101228/http://www.clickteam.info/extensions/extlist.php?cat=14"
+  },
+  {
+    "name": "Windows controls/dialogues",
+    "id": 6,
+    "sourceUrl": "https://web.archive.org/web/20060213101228/http://www.clickteam.info/extensions/extlist.php?cat=6"
+  }
+]
