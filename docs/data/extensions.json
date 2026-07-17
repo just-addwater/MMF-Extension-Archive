@@ -4283,8 +4283,7 @@
     "author": "jax",
     "authorUrl": "https://web.archive.org/web/20201022070013/https://sites.google.com/site/jlnwebster/multimedia-fusion/extension-list/ini",
     "category": "Maths",
-    "description": "Enables programs to work with arbitrary long signed integers. A port of Andrew Mather's Jamagic Code.
-Slint is short for Super Long Integer.",
+    "description": "Enables programs to work with arbitrary long signed integers. A port of Andrew Mather's Jamagic Code. Slint is short for Super Long Integer.",
     "filename": "Slint.cox",
     "downloadUrl": null,
     "icon": "808.gif",
