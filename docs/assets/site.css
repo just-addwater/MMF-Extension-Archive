@@ -162,8 +162,7 @@ a:focus-visible {
   min-height: 42px;
   padding: 6px 9px;
   background: var(--window);
-  border-bottom: 2px solid;
-  border-color: #777 #fff #fff #777;
+  border-bottom: 1px solid #727272;
 }
 
 .toolbar-label { font-weight: 700; }
@@ -202,8 +201,7 @@ a:focus-visible {
   min-width: 0;
   padding: 10px;
   background: #b9b9b9;
-  border-right: 2px solid;
-  border-color: #5b5b5b #fff #fff #5b5b5b;
+  border-right: 1px solid #686868;
 }
 
 .sidebar-inner {
@@ -287,6 +285,26 @@ a:focus-visible {
   line-height: 1.45;
 }
 
+.about-copy a,
+.contribution-copy a {
+  color: #00006f;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.about-copy a:hover,
+.contribution-copy a:hover { color: var(--red); }
+
+.contribution-copy {
+  margin: 8px 0 0;
+  padding-top: 8px;
+  color: #303030;
+  border-top: 1px dotted #777;
+  font-size: 11px;
+  line-height: 1.45;
+}
+
 .path {
   font-family: "Courier New", monospace;
   font-weight: 700;
@@ -329,30 +347,48 @@ a:focus-visible {
   background: #a8a8a8;
 }
 
+.install-notice {
+  margin-bottom: 6px;
+  padding: 6px 8px;
+  color: #181818;
+  background: #dcebec;
+  border: 1px solid #626f70;
+  border-left: 4px solid var(--red);
+  font-size: 11px;
+  line-height: 1.4;
+}
+
+.install-notice strong { color: var(--navy-dark); }
+
 .list-toolbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 20px;
-  min-height: 52px;
-  padding: 7px 9px;
+  min-height: 46px;
+  padding: 6px 8px;
   background: var(--window);
-  border: 2px solid;
-  border-color: #fff #4a4a4a #4a4a4a #fff;
+  border: 1px solid;
+  border-color: #d6d6d6 #626262 #626262 #d6d6d6;
 }
 
-.list-heading { min-width: 0; }
+.list-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  min-width: 0;
+}
 
 .list-heading h2 {
-  margin: 0 0 2px;
+  margin: 0;
   color: var(--navy-dark);
-  font: 700 18px/1.2 Tahoma, Verdana, sans-serif;
+  font: 700 16px/1.2 Tahoma, Verdana, sans-serif;
 }
 
 .result-count {
   color: #4a4a4a;
   font-size: 10px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .sort-control {
@@ -377,7 +413,7 @@ a:focus-visible {
 
 .extension-list {
   border: 2px solid;
-  border-color: #4a4a4a #fff #fff #4a4a4a;
+  border-color: #4a4a4a #cecece #cecece #4a4a4a;
 }
 
 .extension-row {
@@ -516,7 +552,7 @@ a:focus-visible {
   color: #242424;
   background: var(--window);
   border: 2px solid;
-  border-color: #777 #fff #fff #777;
+  border-color: #777 #cecece #cecece #777;
   font-size: 9px;
   line-height: 1.3;
 }
