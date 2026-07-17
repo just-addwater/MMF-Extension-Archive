@@ -182,16 +182,27 @@ function makeExtensionRow(extension) {
   );
   row.append(category);
 
-  const file = createElement("a", "file-link", extension.filename);
-  const download = downloadTarget(extension);
-  file.href = download.href;
-  if (download.direct) file.download = extension.filename;
-  if (download.external) file.rel = "noopener noreferrer";
-  if (download.external && !download.direct) {
-    file.target = "_blank";
+  if (extension.filename.toLowerCase().includes("temp-")) {
+    const unavailable = createElement("div", "unavailable-file");
+    const label = createElement("strong", "unavailable-label", "Unavailable");
+    const help = createElement("span", "unavailable-help", "Help us find this file. Contact us on the ");
+    const discord = createElement("a", "", "Kliktopia Discord");
+    discord.href = "https://discord.gg/25C98VQ";
+    discord.target = "_blank";
+    discord.rel = "noopener noreferrer";
+    help.append(discord, document.createTextNode("."));
+    unavailable.append(label, help);
+    row.append(unavailable);
+  } else {
+    const file = createElement("a", "file-link", extension.filename);
+    const download = downloadTarget(extension);
+    file.href = download.href;
+    if (download.direct) file.download = extension.filename;
+    if (download.external) file.rel = "noopener noreferrer";
+    if (download.external && !download.direct) file.target = "_blank";
+    file.setAttribute("aria-label", `Download ${extension.filename}`);
+    row.append(file);
   }
-  file.setAttribute("aria-label", `Download ${extension.filename}`);
-  row.append(file);
 
   return row;
 }
