@@ -3869,7 +3869,7 @@
     "category": "Misc.",
     "description": "Gain access to all your values in the way you want to. This object lets advanced users take control, and provide an easy way to store different values to disk. Useful for level editors!",
     "filename": "ValueRetriever.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/ValueRetriever.exe",
     "icon": "16.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=16"
   },
@@ -3882,7 +3882,7 @@
     "category": "Graphical",
     "description": "This object will play any video that you have a codec for. It will also play animated GIFs.",
     "filename": "kcVideo.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/VideoPro_MMF.exe",
     "icon": "154.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=154"
   },
@@ -4012,7 +4012,7 @@
     "category": "System",
     "description": "This object has been superseded by the Window Message Object Pro. It allows you to intercept and generate Windows messages and change various window styles and the caption.",
     "filename": "WinMess.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/WinMessPro.exe",
     "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=200"
   },
