@@ -59,7 +59,7 @@
     "authorUrl": null,
     "category": "Misc.",
     "description": "Registry object, with the ability to export to .reg, enumerate keys and values and delete them. 1.5: Bug fixes and: \"Is Value\", \"Is String\" conditions.",
-    "filename": "advreg.cox",
+    "filename": "temp-advreg.cox",
     "downloadUrl": null,
     "icon": "309.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=309"
@@ -72,7 +72,7 @@
     "authorUrl": null,
     "category": "Sound & Music",
     "description": "This is an improved version of other beep objects because it allows you to change the frequency and duration of the beeps. Does not work on Windows 95/98/ME",
-    "filename": "advbeep.cox",
+    "filename": "temp-advbeep.cox",
     "downloadUrl": null,
     "icon": "temp-exts_beep.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=286"
@@ -202,7 +202,7 @@
     "authorUrl": null,
     "category": "System",
     "description": "This object changes the real priority of your application, the Task Priority object which comes with MMF does something different. The priority can be set to 6 different levels, from idle to realtime.",
-    "filename": "AppPriority.cox",
+    "filename": "temp-AppPriority.cox",
     "downloadUrl": null,
     "icon": "apppriority.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=361"
@@ -358,7 +358,7 @@
     "authorUrl": null,
     "category": "Data Storage",
     "description": "Binary Quickload is an alternative to the 3ee's Binary object's 'Load File' action. This object can load files as fast as your harddrive can read them. Extra parameters also allow you to read a specif...",
-    "filename": "binqload.cox",
+    "filename": "temp-binqload.cox",
     "downloadUrl": null,
     "icon": "binqload.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=365"
@@ -566,7 +566,7 @@
     "authorUrl": "https://web.archive.org/web/20030222071729/http://www.starfishgames.co.uk/",
     "category": "Misc.",
     "description": "Set the animation speed for active objects - a workaround to the broken 'Change Animation Speed' action. This extension can also let you go beyond the maximum speed of 100, and retrieve the current an...",
-    "filename": "ChangeAnim.cox",
+    "filename": "temp-ChangeAnim.cox",
     "downloadUrl": null,
     "icon": "35.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=35"
@@ -696,7 +696,7 @@
     "authorUrl": "https://web.archive.org/web/20030204054526/http://www.tigerworks.co.uk/",
     "category": "Misc.",
     "description": "Add comments inbetween conditions and actions to make Event List Editor code easier to read.",
-    "filename": "commenter.cox",
+    "filename": "temp-commenter.cox",
     "downloadUrl": null,
     "icon": "111.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=111"
@@ -748,7 +748,7 @@
     "authorUrl": null,
     "category": "Misc.",
     "description": "Quick object made on request to copy all alterable values from 1 object to another.",
-    "filename": "copyvar.cox",
+    "filename": "temp-copyvar.cox",
     "downloadUrl": null,
     "icon": "305.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=305"
