@@ -1112,7 +1112,7 @@
     "authorUrl": null,
     "category": "Maths",
     "description": "Work with floating-point numbers with 16 significant digits - an improvement on MMF's internal numbers of 6 significant figures. Requires MMF Pro and the Bonus Pack",
-    "filename": "DblCalc.cox",
+    "filename": "temp-DblCalc.cox",
     "downloadUrl": null,
     "icon": "126.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=126"
@@ -1411,7 +1411,7 @@
     "authorUrl": null,
     "category": "System",
     "description": "Quick object that can alert you when a directory/file change is made in a certain directory.",
-    "filename": "filespy.cox",
+    "filename": "temp-filespy.cox",
     "downloadUrl": null,
     "icon": "filespy.PNG",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=327"
@@ -1671,7 +1671,7 @@
     "authorUrl": null,
     "category": "System",
     "description": "This object allows unique \"Global Unique Identifiers\" for your application. It can return the number of instances of your application, send messages to another instance, and even block multiple instan...",
-    "filename": "guid.cox",
+    "filename": "GUID.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/guid.zip",
     "icon": "213.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=213"
@@ -2035,7 +2035,7 @@
     "authorUrl": null,
     "category": "Data Storage",
     "description": "This object allows you to handle 1000 values, set, add to and subtract from one or various of them at the same time. It also allows you to invert and scroll values sequences up and down, trade values,...",
-    "filename": "KVM.cox",
+    "filename": "temp-KVM.cox",
     "downloadUrl": null,
     "icon": "291.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=291"
@@ -2139,7 +2139,7 @@
     "authorUrl": null,
     "category": "Windows controls/dialogues",
     "description": "View items in a list with definable colums, or as a grid of icons. Requires MMF Pro",
-    "filename": "ListView.cox",
+    "filename": "temp-ListView.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/ListView.exe",
     "icon": "130.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=130"
@@ -2152,7 +2152,7 @@
     "authorUrl": null,
     "category": "Data Storage",
     "description": "With this extension, you can have logical comparisions like c++, using expressions equivalent to ==, !=, >, >=, <, <=, &&, ||, !, ?: . THIS IS A BETA TEST. IT DOES NOT REPRESENT T...",
-    "filename": "logic.cox",
+    "filename": "temp-logic.cox",
     "downloadUrl": null,
     "icon": "299.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=299"
@@ -2204,7 +2204,7 @@
     "authorUrl": null,
     "category": "Windows controls/dialogues",
     "description": "Create Edit Boxes that only accept certain formats of input. Easy for structured input such as phone numbers, serial numbers, dates, and much more. PRO only, included in Bonus Pack 3 - clicki...",
-    "filename": "maskedit.cox",
+    "filename": "temp-maskedit.cox",
     "downloadUrl": null,
     "icon": "349.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=349"
@@ -2334,7 +2334,7 @@
     "authorUrl": null,
     "category": "System",
     "description": "Find out if a specified window is minimised or not.",
-    "filename": "MinimizeDetector.cox",
+    "filename": "temp-MinimizeDetector.cox",
     "downloadUrl": null,
     "icon": "166.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=166"
@@ -2516,7 +2516,7 @@
     "authorUrl": https://web.archive.org/web/20030623030736/http://www.starfishgames.co.uk/,
     "category": "Input",
     "description": "A small object that lets you read the mouse wheel. You can retrieve the number of notches moved and whether it's scrolling up or down.",
-    "filename": "MouseWheel.cox",
+    "filename": "temp-MouseWheel.cox",
     "downloadUrl": null,
     "icon": "59.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=59"
@@ -2763,7 +2763,7 @@
     "authorUrl": null,
     "category": "Text manipulation",
     "description": "This object preforms the (apparently useful) task of packing a string into a number, and unpacking it again. This allows you to store strings into Alterable values, or into numeric array items. ...",
-    "filename": "packx.cox",
+    "filename": "temp-packx.cox",
     "downloadUrl": null,
     "icon": "packx.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=14"
@@ -3023,7 +3023,7 @@
     "authorUrl": null,
     "category": "Data Storage",
     "description": "QuickHash is a hashing extension capable of hashing files and text using many different algorithms, including MD5, SHA-1 and SHA-2. PRO only, included in Bonus Pack 3 - clicking 'Download' wi...",
-    "filename": "QuickHash.cox",
+    "filename": "temp-QuickHash.cox",
     "downloadUrl": null,
     "icon": "348.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=348"
@@ -3075,7 +3075,7 @@
     "authorUrl": null,
     "category": "Text manipulation",
     "description": "RC4 is a symmetric key stream cipher designed by RSA. It's older than Blowfish but more reliable and faster to use.",
-    "filename": "rc4.cox",
+    "filename": "temp-rc4.cox",
     "downloadUrl": null,
     "icon": "289.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=289"
@@ -3140,7 +3140,7 @@
     "authorUrl": "https://web.archive.org/web/20030222071729/http://www.starfishgames.co.uk/",
     "category": "Text manipulation",
     "description": "Bring the power of advanced string matching, splitting and parsing to your applications with regular expressions (regex). Included in Bonus Pack 2, PRO only",
-    "filename": "RegularExpression.cox",
+    "filename": "temp-RegularExpression.cox",
     "downloadUrl": null,
     "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=283"
@@ -3205,7 +3205,7 @@
     "authorUrl": null,
     "category": "Internet/Communication",
     "description": "This object was a hack of the Powerapp Pro object, and let you use the send mail features of that object. Thus, this extension will never be available for download - it is included here for completion...",
-    "filename": "sendmail.cox",
+    "filename": "temp-sendmail.cox",
     "downloadUrl": null,
     "icon": "172.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=172"
@@ -3270,7 +3270,7 @@
     "authorUrl": null,
     "category": "Misc.",
     "description": "Create a shortcut with a specified path, link and description. Now with the ability to change icons. v2.5: - Change icon after creation - Get shortcut link - Get shortcut descript...",
-    "filename": "shortcut.cox",
+    "filename": "temp-shortcut.cox",
     "downloadUrl": null,
     "icon": "306.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=306"
@@ -3322,7 +3322,7 @@
     "authorUrl": null,
     "category": "System",
     "description": "This object tries to lower CPU usage by idling MMF inbetween loops",
-    "filename": "sleep.cox",
+    "filename": "temp-sleep.cox",
     "downloadUrl": null,
     "icon": "351.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=351"
@@ -3361,7 +3361,7 @@
     "authorUrl": null,
     "category": "Sound & Music",
     "description": "Plays SNES Music (.spc) files, source code available at http://www.helper3000.net/opensource/ and music can be found all over the internet. Requires the DLL to be in the directory with .cca :/",
-    "filename": "SPC.cox",
+    "filename": "temp-SPC.cox",
     "downloadUrl": null,
     "icon": "379.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=379"
@@ -3387,7 +3387,7 @@
     "authorUrl": null,
     "category": "Text manipulation",
     "description": "Easily check through text for suggestions with advanced options such as contractions and custom word lists. PRO only, included in Bonus Pack 3 - clicking 'Download' will download Bonus Pack 3...",
-    "filename": "Spellcheck5.cox",
+    "filename": "temp-Spellcheck5.cox",
     "downloadUrl": null,
     "icon": "350.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=350"
@@ -3441,7 +3441,7 @@
     "description": "Some storage objects for MMF are unable to handle floats. Since both float and long are 32-bit types, this object allows you to convert a float to a long to be stored in any object, and can be easily ...",
     "filename": "storefloat.cox",
     "downloadUrl": null,
-    "icon": "storefloat.png",
+    "icon": "temp-storefloat.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=366"
   },
   {
@@ -3569,7 +3569,7 @@
     "authorUrl": null,
     "category": "Misc.",
     "description": "Add/remove subapps to and from the Windows Taskbar.",
-    "filename": "subapptask.cox",
+    "filename": "temp-subapptask.cox",
     "downloadUrl": null,
     "icon": "313.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=313"
@@ -3608,7 +3608,7 @@
     "authorUrl": null,
     "category": "System",
     "description": "Included for completion - I don't know what this object does, I can only guess that it returns various information about the system.",
-    "filename": "sysinfo.cox",
+    "filename": "temp-sysinfo.cox",
     "downloadUrl": null,
     "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=205"
@@ -3803,7 +3803,7 @@
     "authorUrl": null,
     "category": "Windows controls/dialogues",
     "description": "Ever seen a checkbox with an elusive third state? Now you can do it with tri-state checkbox.",
-    "filename": "tristate.cox",
+    "filename": "temp-tristate.cox",
     "downloadUrl": null,
     "icon": "296.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=296"
@@ -3842,7 +3842,7 @@
     "authorUrl": null,
     "category": "Windows controls/dialogues",
     "description": "This control can give scroll arrows to other window controls in your application and has advanced number input functions dealing with the Edit Object. Also known as a spin control.",
-    "filename": "updown.cox",
+    "filename": "temp-updown.cox",
     "downloadUrl": null,
     "icon": "temp-updown.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=57"
@@ -3907,7 +3907,7 @@
     "authorUrl": null,
     "category": "Input",
     "description": "Detects input of any mouse/keyboard button.",
-    "filename": "virtualkey.cox",
+    "filename": "temp-virtualkey.cox",
     "downloadUrl": null,
     "icon": "312.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=312"
@@ -3920,7 +3920,7 @@
     "authorUrl": null,
     "category": "Misc.",
     "description": "This object was a hack of the Search object and was supposed to scan files/directories for viruses. It will not be available for download.",
-    "filename": "VScan.cox",
+    "filename": "temp-VScan.cox",
     "downloadUrl": null,
     "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=174"
@@ -3998,7 +3998,7 @@
     "authorUrl": null,
     "category": "Windows controls/dialogues",
     "description": "Can enumerate top level windows and perform functions on them such as: Bring them to front, minimize/maximize them.",
-    "filename": "winmanip.cox",
+    "filename": "temp-winmanip.cox",
     "downloadUrl": null,
     "icon": "winmanip.PNG",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=322"
@@ -4011,7 +4011,7 @@
     "authorUrl": null,
     "category": "System",
     "description": "This object has been superseded by the Window Message Object Pro. It allows you to intercept and generate Windows messages and change various window styles and the caption.",
-    "filename": "WinMess.cox",
+    "filename": "temp-WinMess.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/WinMessPro.exe",
     "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=200"
@@ -4089,7 +4089,7 @@
     "authorUrl": null,
     "category": "Misc.",
     "description": "This extension is used for the integration of code made with the Japanese game language \"Hot Soup Processor.\" You can find more information at http://www.onionsoft.net/hsp.",
-    "filename": "wraphpi.cox",
+    "filename": "temp-wraphpi.cox",
     "downloadUrl": null,
     "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=233"
@@ -4102,7 +4102,7 @@
     "authorUrl": null,
     "category": "Data Storage",
     "description": "This object manipulates XML documents in memory (supports wildcard searching) and can write/read them to/from files. Included in Bonus Pack 2, PRO only",
-    "filename": "MMKXMLParser.cox",
+    "filename": "temp-MMKXMLParser.cox",
     "downloadUrl": null,
     "icon": "284.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=284"
@@ -4167,7 +4167,7 @@
     "authorUrl": "https://web.archive.org/web/20041101074039/http://www.mmfbonus.com/",
     "category": "System",
     "description": "The Substring Object enables you to search for a substring that appears AFTER another substring. While it is theoretically possible to do this in MMF now, this object simplifies the process by more than ten times while lowering the amount of extensions involved in your project.",
-    "filename": "substr.cox",
+    "filename": "Substring.cox",
     "downloadUrl": null,
     "icon": "611.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
