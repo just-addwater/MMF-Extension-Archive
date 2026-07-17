@@ -1230,7 +1230,7 @@
     "category": "Internet/Communication",
     "description": "Communicate with POP3 and SMTP servers to send and receive mail. It supports attachments and threading, meaning that your app won't freeze while email is being downloaded - very useful. Pro e...",
     "filename": "email.cox",
-    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/Multimedia%20Fusion%201.5%20Bonus%20Pack.zip",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/MMF_15_BonusPack.exe",
     "icon": "252.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=252"
   },
@@ -2217,8 +2217,8 @@
     "authorUrl": null,
     "category": "Windows controls/dialogues",
     "description": "Create Edit Boxes that only accept certain formats of input. Easy for structured input such as phone numbers, serial numbers, dates, and much more. PRO only, included in Bonus Pack 3 - clicki...",
-    "filename": "temp-maskedit.cox",
-    "downloadUrl": null,
+    "filename": "maskedit.cox",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/MMF_15_BonusPack3.exe",
     "icon": "349.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=349"
   },
@@ -2712,7 +2712,7 @@
     "category": "System",
     "description": "Retrieve various system information, including the computer's network name, languages, and environment variables. Requires MMF Pro and the Bonus Pack",
     "filename": "OS.cox",
-    "downloadUrl": "https://www.clickteam.com/creation_materials/retired/MMF_15_BonusPack.exe",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/MMF_15_BonusPack.exe",
     "icon": "131.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=131"
   },
@@ -2985,7 +2985,7 @@
     "category": "System",
     "description": "The Process Viewer is a simple extension that can retrieve information about all processes, threads, and modules on your system, and even terminate processes. Included in Bonus Pack 2, PRO only",
     "filename": "process.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/MMF_15_BonusPack2.exe",
     "icon": "282.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=282"
   },
@@ -3036,8 +3036,8 @@
     "authorUrl": null,
     "category": "Data Storage",
     "description": "QuickHash is a hashing extension capable of hashing files and text using many different algorithms, including MD5, SHA-1 and SHA-2. PRO only, included in Bonus Pack 3 - clicking 'Download' wi...",
-    "filename": "temp-QuickHash.cox",
-    "downloadUrl": null,
+    "filename": "QuickHash.cox",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/MMF_15_BonusPack3.exe",
     "icon": "348.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=348"
   },
@@ -3400,8 +3400,8 @@
     "authorUrl": "https://web.archive.org/web/20201022065819/https://sites.google.com/site/jlnwebster/multimedia-fusion/extension-list",
     "category": "Text manipulation",
     "description": "Easily check through text for suggestions with advanced options such as contractions and custom word lists. PRO only, included in Bonus Pack 3 - clicking 'Download' will download Bonus Pack 3...",
-    "filename": "temp-Spellcheck5.cox",
-    "downloadUrl": null,
+    "filename": "Spellcheck5.cox",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/MMF_15_BonusPack3.exe",
     "icon": "350.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=350"
   },
@@ -4115,8 +4115,8 @@
     "authorUrl": null,
     "category": "Data Storage",
     "description": "This object manipulates XML documents in memory (supports wildcard searching) and can write/read them to/from files. Included in Bonus Pack 2, PRO only",
-    "filename": "temp-MMKXMLParser.cox",
-    "downloadUrl": null,
+    "filename": "MMKXMLParser.cox",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/MMF_15_BonusPack2.exe",
     "icon": "284.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=284"
   },
