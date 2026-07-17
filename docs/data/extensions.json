@@ -4169,7 +4169,7 @@
     "description": "The Substring Object enables you to search for a substring that appears AFTER another substring. While it is theoretically possible to do this in MMF now, this object simplifies the process by more than ten times while lowering the amount of extensions involved in your project.",
     "filename": "substr.cox",
     "downloadUrl": null,
-    "icon": null,
+    "icon": "611.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
   },
   {
@@ -4182,7 +4182,7 @@
     "description": "Let's face it. Today, security matters more than ever. Security budgets are going above or nearing production budgets. What must one do to stay secure in such an environment? Get the best security out there. SHA-1 is the US Government standard for hashing. With the SHA-1 Hash, one can produce 160-bit message digests which is 1) more secure than MD5, the only hash algorithm available to MMF users and 2) hashes 10x faster than the now aging MD5.",
     "filename": "sha1.cox",
     "downloadUrl": null,
-    "icon": null,
+    "icon": "612.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
   },
   {
@@ -4195,7 +4195,7 @@
     "description": "The Comma Object serves one single purpose: to add commas to your numbers. One can customize the comma string to, for example, a colon. Also, with the use of strings, long integers will not be tampered with (for instance, MMF converts 10,000,000,000 to 1e+010).",
     "filename": "comma.cox",
     "downloadUrl": null,
-    "icon": null,
+    "icon": "615.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
   }
 ]
