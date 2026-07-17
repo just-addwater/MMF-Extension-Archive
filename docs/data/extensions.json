@@ -2984,7 +2984,7 @@
     "authorUrl": null,
     "category": "System",
     "description": "The Process Viewer is a simple extension that can retrieve information about all processes, threads, and modules on your system, and even terminate processes. Included in Bonus Pack 2, PRO only",
-    "filename": "temp-process.cox",
+    "filename": "process.cox",
     "downloadUrl": null,
     "icon": "282.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=282"
@@ -3101,7 +3101,7 @@
     "authorUrl": "https://web.archive.org/web/20030204054526/http://www.tigerworks.co.uk/",
     "category": "Game objects",
     "description": "The RTS object can handle all turret aiming, rotating and target acquiring in an RTS style situation. Be sure to read the docs and see the example!",
-    "filename": "temp-rts.cox",
+    "filename": "RTS.cox",
     "downloadUrl": null,
     "icon": "strategy.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=25"
