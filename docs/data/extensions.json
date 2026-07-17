@@ -2513,7 +2513,7 @@
     "name": "Mouse Wheel",
     "version": "1.0",
     "author": "FireMonkey",
-    "authorUrl": https://web.archive.org/web/20030623030736/http://www.starfishgames.co.uk/,
+    "authorUrl": "https://web.archive.org/web/20030623030736/http://www.starfishgames.co.uk/",
     "category": "Input",
     "description": "A small object that lets you read the mouse wheel. You can retrieve the number of notches moved and whether it's scrolling up or down.",
     "filename": "temp-MouseWheel.cox",
