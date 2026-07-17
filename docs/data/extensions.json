@@ -3972,8 +3972,8 @@
     "authorUrl": null,
     "category": "Sound & Music",
     "description": "The Winamp Object can interface with Winamp and set/get information or perform actions.",
-    "filename": "temp-winamp.cox",
-    "downloadUrl": null,
+    "filename": "winamp.cox",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/winamp.exe",
     "icon": "329.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=329"
   },
@@ -4024,8 +4024,8 @@
     "authorUrl": null,
     "category": "System",
     "description": "This object has been superseded by the Window Message Object Pro. It allows you to intercept and generate Windows messages and change various window styles and the caption.",
-    "filename": "temp-WinMess.cox",
-    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/WinMessPro.exe",
+    "filename": "WinMess.cox",
+    "downloadUrl": null,
     "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=200"
   },
@@ -4051,7 +4051,7 @@
     "category": "System",
     "description": "This object's main feature is the interception and generation of Windows messages. If you don't know anything about Windows messages, check out the two links contained in the help. Other than that, ha...",
     "filename": "WinMessPro.cox",
-    "downloadUrl": null,
+    "downloadUrl": ""https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/WinMessPro.exe"",
     "icon": "201.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=201"
   },
@@ -4102,7 +4102,7 @@
     "authorUrl": null,
     "category": "Misc.",
     "description": "This extension is used for the integration of code made with the Japanese game language \"Hot Soup Processor.\" You can find more information at http://www.onionsoft.net/hsp.",
-    "filename": "temp-wraphpi.cox",
+    "filename": "wraphpi.cox",
     "downloadUrl": null,
     "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=233"
