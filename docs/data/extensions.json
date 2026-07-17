@@ -125,7 +125,7 @@
     "category": "Maths",
     "description": "The Advanced Math Object expands the mathematical capabilities of Click and Create. It adds trigonometric and general mathematical functions, plus some convenience functions to calculate distances and...",
     "filename": "kcamath.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/amathMMF.exe",
     "icon": "37.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=37"
   },
@@ -268,7 +268,7 @@
     "category": "Data Storage",
     "description": "Store both strings and values associatively (by name) in one array. It can save encrypted files using Blowfish, load and save INIs and list files, and perform complex manipulation of the arr...",
     "filename": "AssArray.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/AssArray.exe",
     "icon": "189.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=189"
   },
@@ -2451,7 +2451,7 @@
     "authorUrl": "https://web.archive.org/web/20050305172354/http://www.3ee.com/products.asp",
     "category": "Internet/Communication",
     "description": "This plugin for Multimedia Fusion has been designed to exclusively develop any type of online software, whether it's a multiplayer game or online application. With new, powerful features, MooClick off...",
-    "filename": "temp-267.cox",
+    "filename": "mooclick.cox",
     "downloadUrl": null,
     "icon": "267.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=267"
@@ -2464,7 +2464,7 @@
     "authorUrl": "https://web.archive.org/web/20050305172354/http://www.3ee.com/products.asp",
     "category": "Internet/Communication",
     "description": "This plugin has been designed to exclusively develop multiplayer games. With powerful features, MooGame offers more flexibility and ease while developing online games. MooGame is designed to ...",
-    "filename": "temp-268.cox",
+    "filename": "moogame.cox",
     "downloadUrl": null,
     "icon": "268.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=268"
@@ -2477,7 +2477,7 @@
     "authorUrl": "https://web.archive.org/web/20050305172354/http://www.3ee.com/products.asp",
     "category": "Internet/Communication",
     "description": "MooSock is provided outside of the Moo grouping to allow you to do lower level TCP/IP tasks such as send binary files and write protocol clients and servers. MooSock can be used to write clie...",
-    "filename": "temp-269.cox",
+    "filename": "moosock.cox",
     "downloadUrl": null,
     "icon": "269.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=269"
