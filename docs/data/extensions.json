@@ -1216,8 +1216,8 @@
     "authorUrl": "https://web.archive.org/web/20030204054526/http://www.tigerworks.co.uk/",
     "category": "Game objects",
     "description": "The Easy Grid object can create a grid to snap your objects to in-game quickly and easily. It has a number of functions related to real co-ordinates and grid co-ordinates too.",
-    "filename": "temp-easygrid.cox",
-    "downloadUrl": null,
+    "filename": "easygrid.cox",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/EasyGrid_Install.exe",
     "icon": "21.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=21"
   },
@@ -1372,7 +1372,7 @@
     "authorUrl": null,
     "category": "Internet/Communication",
     "description": "Interfaces with the Velleman 8055 USB interface card.",
-    "filename": "temp-ferret8055.cox",
+    "filename": "ferret8055.cox",
     "downloadUrl": null,
     "icon": "247.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=247"
@@ -1385,7 +1385,7 @@
     "authorUrl": null,
     "category": "Graphical",
     "description": "A very primitive drawing extension that can set pixels and draw lines in a new (fullscreen) window.",
-    "filename": "ferretdraw.cox",
+    "filename": "FerretDraw-1.0.2.cox",
     "downloadUrl": null,
     "icon": "248.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=248"
@@ -1398,7 +1398,7 @@
     "authorUrl": null,
     "category": "System",
     "description": "This object can get all kinds of information about your computer - hardware, drive and file information, DirectX version, network settings, wallpaper/screensaver and more.",
-    "filename": "ferretsys.cox",
+    "filename": "FerretSys.cox",
     "downloadUrl": null,
     "icon": "249.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=249"
