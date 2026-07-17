@@ -2061,7 +2061,7 @@
     "authorUrl": null,
     "category": "Game objects",
     "description": "An excellent object that reorders all objects' Z-positions (i.e. what lays on top of what) automatically, using X/Y positions or alterable values. It can also bring certain objects to front - useful f...",
-    "filename": "temp-129.cox",
+    "filename": "Layer.cox",
     "downloadUrl": null,
     "icon": "129.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=129"
