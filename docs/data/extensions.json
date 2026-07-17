@@ -1151,8 +1151,8 @@
     "authorUrl": null,
     "category": "Windows controls/dialogues",
     "description": "Give your list objects the ability to have dragable items with this handy extension. Choose from showing a drag icon or not, automatic scrolling, and more.",
-    "filename": "temp-draglist.cox",
-    "downloadUrl": null,
+    "filename": "draglist.cox",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/DragList.exe",
     "icon": "draglist.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=56"
   },
