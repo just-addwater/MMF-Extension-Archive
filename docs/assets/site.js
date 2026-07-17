@@ -46,6 +46,37 @@ function compareText(left, right) {
   return left.localeCompare(right, undefined, { sensitivity: "base" });
 }
 
+function downloadTarget(extension) {
+  if (!extension.downloadUrl) {
+    return {
+      href: `./downloads/${encodeURIComponent(extension.filename)}`,
+      direct: true,
+      external: false,
+    };
+  }
+
+  const githubBlob = extension.downloadUrl.match(
+    /^https:\/\/github\.com\/([^/]+)\/([^/]+)\/blob\/([^/]+)\/(.+)$/i,
+  );
+  if (githubBlob) {
+    const [, owner, repository, branch, path] = githubBlob;
+    return {
+      href: `https://raw.githubusercontent.com/${owner}/${repository}/${branch}/${path}`,
+      direct: true,
+      external: true,
+    };
+  }
+
+  let direct = false;
+  try {
+    direct = /\.(?:cox|zip|exe|msi|rar|7z)$/i.test(new URL(extension.downloadUrl).pathname);
+  } catch {
+    direct = false;
+  }
+
+  return { href: extension.downloadUrl, direct, external: true };
+}
+
 function getVisibleExtensions() {
   const query = state.query.trim().toLowerCase();
   const filtered = state.extensions.filter((extension) => {
@@ -152,13 +183,12 @@ function makeExtensionRow(extension) {
   row.append(category);
 
   const file = createElement("a", "file-link", extension.filename);
-  if (extension.downloadUrl) {
-    file.href = extension.downloadUrl;
+  const download = downloadTarget(extension);
+  file.href = download.href;
+  if (download.direct) file.download = extension.filename;
+  if (download.external) file.rel = "noopener noreferrer";
+  if (download.external && !download.direct) {
     file.target = "_blank";
-    file.rel = "noopener noreferrer";
-  } else {
-    file.href = `./downloads/${encodeURIComponent(extension.filename)}`;
-    file.download = extension.filename;
   }
   file.setAttribute("aria-label", `Download ${extension.filename}`);
   row.append(file);
