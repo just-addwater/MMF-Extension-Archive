@@ -30,10 +30,10 @@
     "name": "3E Modifier",
     "version": "1.2",
     "author": "3EE",
-    "authorUrl": null,
+    "authorUrl": https://web.archive.org/web/20050305172354/http://www.3ee.com/products.asp,
     "category": "Game objects",
     "description": "Allows hierachy setup of active objects, such as pinning a child object to a parent object. Advanced path movement, such as recording, saving, stopping, directions, objects, etc. Also features advan...",
-    "filename": "temp-69.cox",
+    "filename": "3eactive.cox",
     "downloadUrl": null,
     "icon": "69.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=69"
