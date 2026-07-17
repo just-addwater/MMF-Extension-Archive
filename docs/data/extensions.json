@@ -606,7 +606,7 @@
     "category": "Game objects",
     "description": "Perform advanced collision detection between objects - find out in which direction the collision occured, and more.",
     "filename": "temp-collision.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/182290-CollisionObjectV1_1.zip",
     "icon": "164.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=164"
   },
