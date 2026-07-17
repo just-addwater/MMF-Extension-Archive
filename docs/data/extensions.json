@@ -566,7 +566,7 @@
     "authorUrl": "https://web.archive.org/web/20030222071729/http://www.starfishgames.co.uk/",
     "category": "Misc.",
     "description": "Set the animation speed for active objects - a workaround to the broken 'Change Animation Speed' action. This extension can also let you go beyond the maximum speed of 100, and retrieve the current an...",
-    "filename": "temp-ChangeAnim.cox",
+    "filename": "ChangeAnim.cox",
     "downloadUrl": null,
     "icon": "35.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=35"
