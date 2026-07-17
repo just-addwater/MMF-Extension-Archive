@@ -3582,7 +3582,7 @@
     "authorUrl": null,
     "category": "Misc.",
     "description": "Add/remove subapps to and from the Windows Taskbar.",
-    "filename": "temp-subapptask.cox",
+    "filename": "subapptask.cox",
     "downloadUrl": null,
     "icon": "313.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=313"
@@ -3621,7 +3621,7 @@
     "authorUrl": null,
     "category": "System",
     "description": "Included for completion - I don't know what this object does, I can only guess that it returns various information about the system.",
-    "filename": "temp-sysinfo.cox",
+    "filename": "sysinfo.cox",
     "downloadUrl": null,
     "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=205"
@@ -3816,7 +3816,7 @@
     "authorUrl": null,
     "category": "Windows controls/dialogues",
     "description": "Ever seen a checkbox with an elusive third state? Now you can do it with tri-state checkbox.",
-    "filename": "temp-tristate.cox",
+    "filename": "tricheck.cox",
     "downloadUrl": null,
     "icon": "296.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=296"
@@ -3933,7 +3933,7 @@
     "authorUrl": null,
     "category": "Misc.",
     "description": "This object was a hack of the Search object and was supposed to scan files/directories for viruses. It will not be available for download.",
-    "filename": "temp-VScan.cox",
+    "filename": "vscan.cox",
     "downloadUrl": null,
     "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=174"
@@ -4011,7 +4011,7 @@
     "authorUrl": null,
     "category": "Windows controls/dialogues",
     "description": "Can enumerate top level windows and perform functions on them such as: Bring them to front, minimize/maximize them.",
-    "filename": "temp-winmanip.cox",
+    "filename": "winmanip.cox",
     "downloadUrl": null,
     "icon": "winmanip.PNG",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=322"
