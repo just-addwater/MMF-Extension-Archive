@@ -307,7 +307,7 @@
     "category": "Misc.",
     "description": "It's a BASIC interpreter. After all, the condition-based nature of MMF isn't appropriate for all situations...",
     "filename": "kcBasic.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/basic_MMF.exe",
     "icon": "149.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=149"
   },
@@ -411,7 +411,7 @@
     "category": "Maths",
     "description": "This object can perform all sorts of complex Boolean operations. It comes with 100 Flags and 100 Truth Slots, useful to build OR events in MMF. This object supports a more complex version of ...",
     "filename": "Boolean.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/Boolean.exe",
     "icon": "191.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=191"
   },
@@ -580,7 +580,7 @@
     "category": "System",
     "description": "The Clipboard Object gives you full access to read and write text to the Windows system clipboard. You can copy text through an action, making it useful for passing text from one frame to ano...",
     "filename": "kcclip.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/clipMMF.exe",
     "icon": "40.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=40"
   },
@@ -619,7 +619,7 @@
     "category": "Windows controls/dialogues",
     "description": "Open the Windows Color Dialog in your applications, and convert colors to hex values and color references (useful for HTML). $5 commercial license",
     "filename": "ColorDialog.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/ColorDialog.exe",
     "icon": "192.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=192"
   },
@@ -645,7 +645,7 @@
     "category": "Maths",
     "description": "Convert between different colour systems quickly and easily. With this extension you have access to HSL and CMYK. New in v1.1: Colour Blend expressions and an example to demonstrate it.",
     "filename": "ColourConv.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/ColourConv.exe",
     "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=6"
   },
@@ -658,7 +658,7 @@
     "category": "Windows controls/dialogues",
     "description": "A small extension that lets you open the Windows Colour Picker dialogue. In addition to normal features you can set/retrieve the custom colours and configure the dialogue slightly.",
     "filename": "ColourPicker.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/ColourPicker.exe",
     "icon": "34.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=34"
   },
@@ -723,7 +723,7 @@
     "category": "Input",
     "description": "This extension provides an easy way to work with joystick/keyboard control methods, and makes it easy to let the user choose controls in the game! It also includes convenience functions such as 'Butto...",
     "filename": "ControlInterpreter.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/ControlInterp.exe",
     "icon": "29.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=29"
   },
@@ -788,7 +788,7 @@
     "category": "Function/Looping",
     "description": "Create your own custom objects in MMF using the events and conditions you are used to. This is a powerful object which can simplify long events and actions into an easy-to-use frontend. $10 c...",
     "filename": "Custom.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/Custom.exe",
     "icon": "193.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=193"
   },
@@ -879,7 +879,7 @@
     "category": "Misc.",
     "description": "Trigger MMF's default menu options (Paused, Sound or Music on/off, Controls...) through events.",
     "filename": "DefMenuOps.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/DefMenuOps.exe",
     "icon": "194.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=194"
   },
@@ -892,7 +892,7 @@
     "category": "System",
     "description": "Set wallpaper, screensaver, and open Control Panel items.",
     "filename": "desktop.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/Desktop.exe",
     "icon": "11.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=11"
   },
@@ -905,7 +905,7 @@
     "category": "Windows controls/dialogues",
     "description": "This superb object lets you create and display dialogue boxes with a wide range of controls, complete with a tab order function. This object really is one for the professionals. Requires MMF ...",
     "filename": "DlgBox.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/DlgBox.exe",
     "icon": "125.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=125"
   },
@@ -1009,7 +1009,7 @@
     "category": "Sound & Music",
     "description": "The DirectSound object gives you new power and flexibility in playing sounds in your games. - 128 channels for playing samples on - Infinite sample mixing if no effects/volume changes - P...",
     "filename": "dsound.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/dsound_install_mmf15.exe",
     "icon": "20.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=20"
   },
@@ -1282,7 +1282,7 @@
     "category": "Maths",
     "description": "This object is currently in the testing stages, although everything seems to work correctly. This object will allow you to evaluate expressions determined at run-time. For example, you could evaluate ...",
     "filename": "ExpEval.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/ExpEval.exe",
     "icon": "195.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=195"
   },
@@ -1438,7 +1438,7 @@
     "category": "Misc.",
     "description": "This is the third public beta of the FISI object (0.92). The FISI (Fusion Interpreted Script Interface) object can compile and interpret a C-syntax/Jama style language for MMF (the language itself is ...",
     "filename": "fisi.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/FISIbeta09.exe",
     "icon": "19.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=19"
   },
@@ -1620,7 +1620,7 @@
     "category": "Maths",
     "description": "Create gradients between one colour and another very easily.",
     "filename": "GradCalc.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/GradCalc.exe",
     "icon": "186.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=186"
   },
@@ -1854,7 +1854,7 @@
     "category": "Windows controls/dialogues",
     "description": "With the Input Object, you can easily pause your application to ask the user for input, such as text, numbers, or even a usernames and passwords. With the five different built-in dialogs, you...",
     "filename": "kcinput.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/inputMMF.exe",
     "icon": "45.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=45"
   },
@@ -2140,7 +2140,7 @@
     "category": "Windows controls/dialogues",
     "description": "View items in a list with definable colums, or as a grid of icons. Requires MMF Pro",
     "filename": "ListView.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/ListView.exe",
     "icon": "130.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=130"
   },
@@ -2244,7 +2244,7 @@
     "category": "Maths",
     "description": "It's a Swiss Army Knife of an extension. It includes various useful mathematic functions, including image resizing, moving from one number to another (useful for rotation), various trigonometric funct...",
     "filename": "MathsArmyKnife.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/MathsArmyKnife12.exe",
     "icon": "30.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=30"
   },
@@ -2257,7 +2257,7 @@
     "category": "Windows controls/dialogues",
     "description": "This is a powerful extension that allows you to create MDI interfaces in your applications.",
     "filename": "mdi.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/MDI.exe",
     "icon": "mdi.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=7"
   },
@@ -2270,7 +2270,7 @@
     "category": "System",
     "description": "Modify and retrieve values from any address in memory. It's very simple but be careful not to corrupt data and running applications.",
     "filename": "MemMod.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/MemModifier.exe",
     "icon": "33.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=33"
   },
@@ -2322,7 +2322,7 @@
     "category": "Graphical",
     "description": "The Minimap object allows you to display a 'radar' or 'minimap' in your game easily. It can plot to the minimap a dot for every instance of every object you want. It's very easy to use, but the end re...",
     "filename": "minimap.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/minimap_mmf15.exe",
     "icon": "23.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=23"
   },
@@ -2400,7 +2400,7 @@
     "category": "Sound & Music",
     "description": "This object plays tracked modules in Multimedia Fusion. Features: crossfading, multiple track playback, FFT Visualization support. Included in Bonus Pack 2",
     "filename": "ModFusionEX.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/modfusionpk.exe",
     "icon": "279.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=279"
   },
@@ -2491,7 +2491,7 @@
     "category": "Input",
     "description": "The Mouse Object adds mouse movement functionality to Click and Create and Multimedia Fusion. Now, not only can you retrieve where the mouse is pointing, but you can move it to another location. ...",
     "filename": "kcmouse.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/mouseMMF.exe",
     "icon": "48.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=48"
   },
@@ -2569,7 +2569,7 @@
     "category": "Game objects",
     "description": "The Movement Object moves an object using some advanced physics. It lets you apply gravity, bounce objects, and adjust the velocity/xy movement. Unfortunately, it only moves one object at a time.",
     "filename": "movement.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/Movement_11.exe",
     "icon": "90.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=90"
   },
@@ -2595,7 +2595,7 @@
     "category": "Data Storage",
     "description": "Store on/off flags associatively (by name).",
     "filename": "nmflag.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/nmflag.exe",
     "icon": "187.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=187"
   },
@@ -2725,7 +2725,7 @@
     "category": "Graphical",
     "description": "This object lets you do all kinds of drawing operations to the background layer, and can also be made invisible and used as a 'mask' for pathfinding or collisions. This object is an updated v...",
     "filename": "Overlay.cox",
-    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/overlay.zip",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/Overlay.exe",
     "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=197"
   },
@@ -2868,7 +2868,7 @@
     "category": "Windows controls/dialogues",
     "description": "The Popup Message Object allows you to open Windows message boxes with OK, Cancel, Yes, No, and other buttons. The first extension by Cellosoft, a classic!",
     "filename": "kcpop.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/popMMF.exe",
     "icon": "49.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=49"
   },
@@ -2894,7 +2894,7 @@
     "category": "Function/Looping",
     "description": "Harness the power of functions, loops and more! This object lets you create functions which allow you to speed up development time and simplify code. Similar to the Fast Function object, but up to 12 ...",
     "filename": "PowerFunction.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/PowerFunction17.exe",
     "icon": "31.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=31"
   },
@@ -3661,7 +3661,7 @@
     "category": "System",
     "description": "Add multiple icons to the Windows system tray. You can detect input from the icons and add tooltips, and set the icons to external icons or the application's own icons. There are also events to detect...",
     "filename": "SysTray.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/SysTray.exe",
     "icon": "198.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=198"
   },
@@ -3726,7 +3726,7 @@
     "category": "Date/Time",
     "description": "The Timer Object lets you work with UNIX timestamps stored as seconds since Jan 1st, 1970. Using this format, you can compare dates, such as for a time-limited application or expiration date....",
     "filename": "kctime.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/timerMMF.exe",
     "icon": "52.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=52"
   },
@@ -3752,7 +3752,7 @@
     "category": "System",
     "description": "The Titlebar Object allows you to get and set the title bar text. Popular for showing the currently loaded file, or displaying the player's score.",
     "filename": "kctitle.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/titleMMF.exe",
     "icon": "53.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=53"
   },
@@ -3765,7 +3765,7 @@
     "category": "Text manipulation",
     "description": "With the Tokens Object, you can separate a string of text into a set of sub-strings. The extension will read and parse a string by specified characters. You can use this extension to split up...",
     "filename": "kctokens.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/tokensMMF.exe",
     "icon": "54.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=54"
   },
@@ -3817,7 +3817,7 @@
     "category": "Internet/Communication",
     "description": "A helper object for use with the Univeral High Scores Database. It also makes submitting secure scores very simple with Blowfish encryption functions. $5 commercial license",
     "filename": "UHSD.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/UHSD.exe",
     "icon": "199.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=199"
   },
@@ -3986,7 +3986,7 @@
     "category": "System",
     "description": "The Window Focus Object allows you check if your application window has focus or not. Additionally you can flash the titlebar in the windows task bar. Useful for creating applications, but th...",
     "filename": "kcfocus.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/focusMMF.exe",
     "icon": "43.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=43"
   },
