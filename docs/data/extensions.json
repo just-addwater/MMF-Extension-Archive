@@ -3530,8 +3530,8 @@
     "authorUrl": "https://web.archive.org/web/20030204054526/http://www.tigerworks.co.uk/",
     "category": "Text manipulation",
     "description": "The String Manipulator brings new string handling functions in to MMF. You can loop strings in a fastloop-style way, but for each character. You can loop strings with syntax, e.g. HTML syntax for colo...",
-    "filename": "temp-stringmanip.cox",
-    "downloadUrl": null,
+    "filename": "StringManip.cox",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/StringManip_MMF.exe",
     "icon": "28.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=28"
   },
