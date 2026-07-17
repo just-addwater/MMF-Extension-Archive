@@ -74,7 +74,7 @@
     "description": "This is an improved version of other beep objects because it allows you to change the frequency and duration of the beeps. Does not work on Windows 95/98/ME",
     "filename": "advbeep.cox",
     "downloadUrl": null,
-    "icon": "exts_beep.png",
+    "icon": "temp-exts_beep.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=286"
   },
   {
@@ -371,7 +371,7 @@
     "authorUrl": null,
     "category": "Maths",
     "description": "Bitwise Helper is an extension which helps you create and / or conditions in MMF. You can compare two values by: Equal, Different, Lower, Lower Equal, Greater Equal. If it is true, it will return 1, i...",
-    "filename": "bwhelper.cox",
+    "filename": "temp-bwhelper.cox",
     "downloadUrl": null,
     "icon": "301.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=301"
@@ -488,7 +488,7 @@
     "authorUrl": null,
     "category": "Misc.",
     "description": "This is a simple extension which measures text and gives you their dimensions. Specify the font name, size and style, enter the text, and calculate its width and height. There's also a word wrapping f...",
-    "filename": "CalcRect.cox",
+    "filename": "temp-CalcRect.cox",
     "downloadUrl": null,
     "icon": "292.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=292"
@@ -540,7 +540,7 @@
     "authorUrl": null,
     "category": "Misc.",
     "description": "Enumerates the available CDROM drives on the system and retreives a unique ID that can be sent to a CDDB server for content retreival.",
-    "filename": "cdid.cox",
+    "filename": "temp-cdid.cox",
     "downloadUrl": null,
     "icon": "311.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=311"
@@ -605,7 +605,7 @@
     "authorUrl": null,
     "category": "Game objects",
     "description": "Perform advanced collision detection between objects - find out in which direction the collision occured, and more.",
-    "filename": "collision.cox",
+    "filename": "temp-collision.cox",
     "downloadUrl": null,
     "icon": "164.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=164"
@@ -930,7 +930,7 @@
     "authorUrl": "https://web.archive.org/web/20050305172354/http://www.3ee.com/products.asp",
     "category": "Data Storage",
     "description": "Dictionary object allows you to create word arrays to us for spell checkers, dictionaries, etc. You can also use input/output to MMF 1.5 arrays, INIs, and CSVs. TGF/CNC version download",
-    "filename": "diction.cox",
+    "filename": "temp-diction.cox",
     "downloadUrl": null,
     "icon": "77.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=77"
@@ -1138,7 +1138,7 @@
     "authorUrl": null,
     "category": "Windows controls/dialogues",
     "description": "Give your list objects the ability to have dragable items with this handy extension. Choose from showing a drag icon or not, automatic scrolling, and more.",
-    "filename": "draglist.cox",
+    "filename": "temp-draglist.cox",
     "downloadUrl": null,
     "icon": "draglist.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=56"
@@ -1164,7 +1164,7 @@
     "authorUrl": null,
     "category": "System",
     "description": "Can get a label from any drive, eg: C:\\",
-    "filename": "drivelabel.cox",
+    "filename": "temp-drivelabel.cox",
     "downloadUrl": null,
     "icon": "drivelab.PNG",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=333"
@@ -1203,7 +1203,7 @@
     "authorUrl": "https://web.archive.org/web/20030204054526/http://www.tigerworks.co.uk/",
     "category": "Game objects",
     "description": "The Easy Grid object can create a grid to snap your objects to in-game quickly and easily. It has a number of functions related to real co-ordinates and grid co-ordinates too.",
-    "filename": "easygrid.cox",
+    "filename": "temp-easygrid.cox",
     "downloadUrl": null,
     "icon": "21.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=21"
@@ -1359,7 +1359,7 @@
     "authorUrl": null,
     "category": "Internet/Communication",
     "description": "Interfaces with the Velleman 8055 USB interface card.",
-    "filename": "ferret8055.cox",
+    "filename": "temp-ferret8055.cox",
     "downloadUrl": null,
     "icon": "247.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=247"
@@ -1710,7 +1710,7 @@
     "authorUrl": null,
     "category": "Graphical",
     "description": "This object can display an icon selector, draw icons to frame, get associated icons and out of files and set the 16x16 icons on applications.",
-    "filename": "IconObject.cox",
+    "filename": "temp-IconObject.cox",
     "downloadUrl": null,
     "icon": "iconobj.PNG",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=325"
@@ -1749,7 +1749,7 @@
     "authorUrl": null,
     "category": "Sound & Music",
     "description": "Extract ID3 tags from MP3 files. It's smaller and faster than other extensions which do the same job.",
-    "filename": "id3.cox",
+    "filename": "temp-id3.cox",
     "downloadUrl": null,
     "icon": "295.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=295"
@@ -1775,7 +1775,7 @@
     "authorUrl": null,
     "category": "Misc.",
     "description": "v1.2 - I misunderstood what nested If's were, so redesigned them in the extension. I urge anybody who has this extension to update, as it is not backwards compatible with old projects. IfElse make...",
-    "filename": "ifelse.cox",
+    "filename": "temp-ifelse.cox",
     "downloadUrl": null,
     "icon": "ifelse.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=308"
@@ -2698,7 +2698,7 @@
     "authorUrl": null,
     "category": "System",
     "description": "Retrieve various system information, including the computer's network name, languages, and environment variables. Requires MMF Pro and the Bonus Pack",
-    "filename": "OS.cox",
+    "filename": "temp-OS.cox",
     "downloadUrl": null,
     "icon": "131.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=131"
@@ -2945,7 +2945,7 @@
     "authorUrl": null,
     "category": "Maths",
     "description": "A simple extension for searching for prime numbers.",
-    "filename": "prime.cox",
+    "filename": "temp-prime.cox",
     "downloadUrl": null,
     "icon": "prime.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=298"
@@ -2971,7 +2971,7 @@
     "authorUrl": null,
     "category": "System",
     "description": "The Process Viewer is a simple extension that can retrieve information about all processes, threads, and modules on your system, and even terminate processes. Included in Bonus Pack 2, PRO only",
-    "filename": "process.cox",
+    "filename": "temp-process.cox",
     "downloadUrl": null,
     "icon": "282.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=282"
@@ -3088,7 +3088,7 @@
     "authorUrl": "https://web.archive.org/web/20030204054526/http://www.tigerworks.co.uk/",
     "category": "Game objects",
     "description": "The RTS object can handle all turret aiming, rotating and target acquiring in an RTS style situation. Be sure to read the docs and see the example!",
-    "filename": "rts.cox",
+    "filename": "temp-rts.cox",
     "downloadUrl": null,
     "icon": "25.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=25"
@@ -3517,7 +3517,7 @@
     "authorUrl": "https://web.archive.org/web/20030204054526/http://www.tigerworks.co.uk/",
     "category": "Text manipulation",
     "description": "The String Manipulator brings new string handling functions in to MMF. You can loop strings in a fastloop-style way, but for each character. You can loop strings with syntax, e.g. HTML syntax for colo...",
-    "filename": "stringmanip.cox",
+    "filename": "temp-stringmanip.cox",
     "downloadUrl": null,
     "icon": "28.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=28"
@@ -3844,7 +3844,7 @@
     "description": "This control can give scroll arrows to other window controls in your application and has advanced number input functions dealing with the Edit Object. Also known as a spin control.",
     "filename": "updown.cox",
     "downloadUrl": null,
-    "icon": "updown.gif",
+    "icon": "temp-updown.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=57"
   },
   {
@@ -3959,7 +3959,7 @@
     "authorUrl": null,
     "category": "Sound & Music",
     "description": "The Winamp Object can interface with Winamp and set/get information or perform actions.",
-    "filename": "winamp.cox",
+    "filename": "temp-winamp.cox",
     "downloadUrl": null,
     "icon": "329.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=329"
@@ -4063,7 +4063,7 @@
     "authorUrl": null,
     "category": "Windows controls/dialogues",
     "description": "Allows you to control the window's opacity (visibility).",
-    "filename": "WindTrans.cox",
+    "filename": "temp-WindTrans.cox",
     "downloadUrl": null,
     "icon": "288.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=288"
