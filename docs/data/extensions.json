@@ -3713,7 +3713,7 @@
     "category": "Game objects",
     "description": "The Swing Object allows you to easily make swings for you game. It is also an open source extension. Enjoy!",
     "filename": "kc_swing.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/PlatformSwing.zip",
     "icon": "36.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=36"
   },
