@@ -2529,7 +2529,7 @@
     "authorUrl": "https://web.archive.org/web/20030623030736/http://www.starfishgames.co.uk/",
     "category": "Input",
     "description": "A small object that lets you read the mouse wheel. You can retrieve the number of notches moved and whether it's scrolling up or down.",
-    "filename": "temp-MouseWheel.cox",
+    "filename": "MouseWheel.cox",
     "downloadUrl": null,
     "icon": "59.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=59"
@@ -2776,8 +2776,8 @@
     "authorUrl": "https://web.archive.org/web/20201022065819/https://sites.google.com/site/jlnwebster/multimedia-fusion/extension-list",
     "category": "Text manipulation",
     "description": "This object preforms the (apparently useful) task of packing a string into a number, and unpacking it again. This allows you to store strings into Alterable values, or into numeric array items. ...",
-    "filename": "temp-packx.cox",
-    "downloadUrl": null,
+    "filename": "packx.cox",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/PackX_exe.zip",
     "icon": "packx.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=14"
   },
