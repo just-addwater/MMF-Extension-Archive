@@ -3544,7 +3544,7 @@
     "category": "Text manipulation",
     "description": "Outdated extension since String Parser 2 is available, however is provided for conversion purposes. TGF/CNC version download",
     "filename": "string.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/string.zip",
     "icon": "72.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=72"
   },
