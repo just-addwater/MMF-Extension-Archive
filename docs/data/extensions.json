@@ -516,7 +516,7 @@
     "description": "This extension draws a coloured box to the screen. The box can be docked at the edge of the screen and change size.",
     "filename": "cBox.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/cbox.zip",
-    "icon": null,
+    "icon": "cbox.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=203"
   },
   {
@@ -646,7 +646,7 @@
     "description": "Convert between different colour systems quickly and easily. With this extension you have access to HSL and CMYK. New in v1.1: Colour Blend expressions and an example to demonstrate it.",
     "filename": "ColourConv.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/ColourConv.exe",
-    "icon": null,
+    "icon": "colourconv.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=6"
   },
   {
@@ -672,7 +672,7 @@
     "description": "Interface with a serial port from an MMF application.",
     "filename": "comobject.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/comport.zip",
-    "icon": null,
+    "icon": "comobject.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=137"
   },
   {
@@ -1296,7 +1296,7 @@
     "description": "Make objects orbit another object easily.",
     "filename": "Orbit.cox",
     "downloadUrl": null,
-    "icon": "exts_eorb.png",
+    "icon": "orbit.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=109"
   },
   {
@@ -3090,7 +3090,7 @@
     "description": "The RTS object can handle all turret aiming, rotating and target acquiring in an RTS style situation. Be sure to read the docs and see the example!",
     "filename": "temp-rts.cox",
     "downloadUrl": null,
-    "icon": "25.gif",
+    "icon": "strategy.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=25"
   },
   {
@@ -4156,7 +4156,7 @@
     "description": "Zoom into the playfield using this object. It actually resizes the frame window while keeping the main window the same size, so you must turn on 'Resize display to fill current window display' to make...",
     "filename": "zoom.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/Zoom.zip",
-    "icon": null,
+    "icon": "zoom1.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
   },
   {
