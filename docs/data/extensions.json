@@ -4063,8 +4063,8 @@
     "authorUrl": null,
     "category": "Windows controls/dialogues",
     "description": "Allows you to control the window's opacity (visibility).",
-    "filename": "temp-WindTrans.cox",
-    "downloadUrl": null,
+    "filename": "WindTrans.cox",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/TransWind.exe",
     "icon": "288.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=288"
   },
