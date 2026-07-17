@@ -2347,7 +2347,7 @@
     "authorUrl": "https://web.archive.org/web/20201022065819/https://sites.google.com/site/jlnwebster/multimedia-fusion/extension-list",
     "category": "System",
     "description": "Find out if a specified window is minimised or not.",
-    "filename": "temp-MinimizeDetector.cox",
+    "filename": "MinimizeDetector.cox",
     "downloadUrl": null,
     "icon": "166.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=166"
@@ -4205,7 +4205,7 @@
     "author": "jax / Jack Wevster",
     "authorUrl": "https://web.archive.org/web/20041101074039/http://www.mmfbonus.com/",
     "category": "System",
-    "description": "Changes gamma",
+    "description": "Sets the Gamma Ramp of the display.",
     "filename": "GammaSet.cox",
     "downloadUrl": null,
     "icon": "621.gif",
@@ -4261,6 +4261,33 @@
     "filename": "DirectShow.cox",
     "downloadUrl": null,
     "icon": "642.gif",
+    "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
+  },
+  {
+    "id": 809,
+    "name": "Ini++",
+    "version": null,
+    "author": "jax",
+    "authorUrl": "https://web.archive.org/web/20201022070013/https://sites.google.com/site/jlnwebster/multimedia-fusion/extension-list/ini",
+    "category": "Data Storage",
+    "description": "Ini++ is an advanced version of the standard Ini object. Its extra features include:",
+    "filename": "iniplusplus.cox",
+    "downloadUrl": null,
+    "icon": "809.gif",
+    "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
+  },
+  {
+    "id": 808,
+    "name": "SLINT",
+    "version": null,
+    "author": "jax",
+    "authorUrl": "https://web.archive.org/web/20201022070013/https://sites.google.com/site/jlnwebster/multimedia-fusion/extension-list/ini",
+    "category": "Maths",
+    "description": "Enables programs to work with arbitrary long signed integers. A port of Andrew Mather's Jamagic Code.
+Slint is short for Super Long Integer.",
+    "filename": "Slint.cox",
+    "downloadUrl": null,
+    "icon": "808.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
   },
   {
