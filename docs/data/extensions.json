@@ -696,7 +696,7 @@
     "authorUrl": "https://web.archive.org/web/20030204054526/http://www.tigerworks.co.uk/",
     "category": "Misc.",
     "description": "Add comments inbetween conditions and actions to make Event List Editor code easier to read.",
-    "filename": "temp-commenter.cox",
+    "filename": "Commenter.cox",
     "downloadUrl": null,
     "icon": "111.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=111"
@@ -737,6 +737,19 @@
     "description": "Detect key presses using the key name or values, block certain key combinations, and simulate key presses and mouse clicks.",
     "filename": "ctrlx.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/controlx.zip",
+    "icon": "250.gif",
+    "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=250"
+  },
+  {
+    "id": 850,
+    "name": "Control X 95",
+    "version": null,
+    "author": "z33z",
+    "authorUrl": null,
+    "category": "Input",
+    "description": "As the original version of ControlX doesn't work on Windows 95, this version removes the keypress generating actions so that it is function on 95's.",
+    "filename": "ctrlx95.cox",
+    "downloadUrl": null,
     "icon": "250.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=250"
   },
