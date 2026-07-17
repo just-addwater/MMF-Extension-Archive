@@ -1191,7 +1191,7 @@
     "category": "Data Storage",
     "description": "DArray or Global Array is obsolete since Dynamic Array 2 is available. This extension is provided for conversion purposes. TGF/CNC version download",
     "filename": "garray.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/garray.exe",
     "icon": "76.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=76"
   },
