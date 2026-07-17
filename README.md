@@ -1,6 +1,12 @@
 # MMF Extension Archive
+https://just-addwater.github.io/MMF-Extension-Archive/
 
-A static community catalog of publicly released extensions for Clickteam Multimedia Fusion 1.0 and 1.5.
+
+A community catalog of publicly released extensions for Clickteam Multimedia Fusion 1.0 and 1.5.
+
+This project preserves historical Multimedia Fusion extensions and related documentation. Files are mirrored only where redistribution permission has been identified or received. Copyright remains with the respective authors and rights holders. Rights holders may request correction, attribution changes, download removal or replacement with an official link.
+
+
 
 The GitHub Pages version is entirely inside `docs/`. It does not require a database, server, or build step. Search, categories, and sorting run in the visitor's browser.
 
