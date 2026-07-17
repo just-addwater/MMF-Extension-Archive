@@ -3153,8 +3153,8 @@
     "authorUrl": "https://web.archive.org/web/20030222071729/http://www.starfishgames.co.uk/",
     "category": "Text manipulation",
     "description": "Bring the power of advanced string matching, splitting and parsing to your applications with regular expressions (regex). Included in Bonus Pack 2, PRO only",
-    "filename": "temp-RegularExpression.cox",
-    "downloadUrl": null,
+    "filename": "RegularExpression.cox",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/238506-Regex.zip",
     "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=283"
   },
@@ -3245,7 +3245,7 @@
     "category": "Maths",
     "description": "This was written on the request of KenSingleton. It allows set operations (e.g. \"Element of\", \"Subset of\", \"Union\", \"Intersect\", and \"Difference\") in MMF.",
     "filename": "SetObject.cox",
-    "downloadUrl": null,
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/setobject.zip",
     "icon": "set.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=304"
   },
@@ -3283,7 +3283,7 @@
     "authorUrl": null,
     "category": "Misc.",
     "description": "Create a shortcut with a specified path, link and description. Now with the ability to change icons. v2.5: - Change icon after creation - Get shortcut link - Get shortcut descript...",
-    "filename": "temp-shortcut.cox",
+    "filename": "shortcut.cox",
     "downloadUrl": null,
     "icon": "306.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=306"
@@ -3374,7 +3374,7 @@
     "authorUrl": null,
     "category": "Sound & Music",
     "description": "Plays SNES Music (.spc) files, source code available at http://www.helper3000.net/opensource/ and music can be found all over the internet. Requires the DLL to be in the directory with .cca :/",
-    "filename": "temp-SPC.cox",
+    "filename": "SPC.cox",
     "downloadUrl": null,
     "icon": "379.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=379"
