@@ -2713,7 +2713,7 @@
     "description": "The original version of the Overlay object, which lets you load and save images and draw to the screen.",
     "filename": "overlay.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/overlay.zip",
-    "icon": null,
+    "icon": "714.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=136"
   },
   {
@@ -2726,7 +2726,7 @@
     "description": "This object lets you do all kinds of drawing operations to the background layer, and can also be made invisible and used as a 'mask' for pathfinding or collisions. This object is an updated v...",
     "filename": "Overlay.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/Overlay.exe",
-    "icon": null,
+    "icon": "714.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=197"
   },
   {
