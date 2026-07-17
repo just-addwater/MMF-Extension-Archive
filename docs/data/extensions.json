@@ -1125,8 +1125,8 @@
     "authorUrl": null,
     "category": "Maths",
     "description": "Work with floating-point numbers with 16 significant digits - an improvement on MMF's internal numbers of 6 significant figures. Requires MMF Pro and the Bonus Pack",
-    "filename": "temp-DblCalc.cox",
-    "downloadUrl": null,
+    "filename": "DblCalc.cox",
+    "downloadUrl": "https://www.clickteam.com/creation_materials/retired/MMF_15_BonusPack.exe",
     "icon": "126.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=126"
   },
@@ -2711,8 +2711,8 @@
     "authorUrl": null,
     "category": "System",
     "description": "Retrieve various system information, including the computer's network name, languages, and environment variables. Requires MMF Pro and the Bonus Pack",
-    "filename": "temp-OS.cox",
-    "downloadUrl": null,
+    "filename": "OS.cox",
+    "downloadUrl": "https://www.clickteam.com/creation_materials/retired/MMF_15_BonusPack.exe",
     "icon": "131.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=131"
   },
