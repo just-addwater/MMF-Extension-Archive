@@ -59,7 +59,7 @@
     "authorUrl": null,
     "category": "Misc.",
     "description": "Registry object, with the ability to export to .reg, enumerate keys and values and delete them. 1.5: Bug fixes and: \"Is Value\", \"Is String\" conditions.",
-    "filename": "temp-advreg.cox",
+    "filename": "advreg.cox",
     "downloadUrl": null,
     "icon": "309.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=309"
