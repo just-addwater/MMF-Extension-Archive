@@ -4241,13 +4241,26 @@
     "id": 641,
     "name": "Tint Pixel Object",
     "version": null,
-    "author": "unknown",
+    "author": "banjaxx",
     "authorUrl": null,
     "category": "Graphical",
     "description": "Tints pixels",
     "filename": "tintpixel.cox",
     "downloadUrl": null,
     "icon": "641.gif",
+    "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
+  },
+  {
+    "id": 905,
+    "name": "Capture Object",
+    "version": null,
+    "author": "unknown",
+    "authorUrl": null,
+    "category": "Graphical",
+    "description": ".",
+    "filename": "Capture.cox",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/capture.zip",
+    "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
   },
   {
@@ -4287,6 +4300,19 @@
     "filename": "Slint.cox",
     "downloadUrl": null,
     "icon": "808.gif",
+    "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
+  },
+  {
+    "id": 903,
+    "name": "Five Thousand Global Values object",
+    "version": null,
+    "author": "banjaxx",
+    "authorUrl": "https://web.archive.org/web/20201022070013/https://sites.google.com/site/jlnwebster/multimedia-fusion/extension-list/ini",
+    "category": "Data Storage",
+    "description": "Five Thousand Global Values",
+    "filename": "5KGV.cox",
+    "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/5KGV.zip",
+    "icon": "902.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
   },
   {
