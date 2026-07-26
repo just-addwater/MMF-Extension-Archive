@@ -4354,6 +4354,19 @@
     "icon": null,
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
   },
+ {
+    "id": 913,
+    "name": "A2P Global Values object",
+    "version": null,
+    "author": "unknow",
+    "authorUrl": null,
+    "category": "System",
+    "description": "Global Values ",
+    "filename": "A2PGV.cox",
+    "downloadUrl": null,
+    "icon": null,
+    "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
+  },
   {
     "id": 642,
     "name": "Direct Show Object",
