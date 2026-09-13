@@ -241,7 +241,7 @@
     "authorUrl": null,
     "category": "Text manipulation",
     "description": "English + français - Retrieve the position of a character in the ASCII table and vice versa - Récupère la position d'un caractère dans la table ASCII et vice-versa",
-    "filename": "temp-336.cox",
+    "filename": "ascii.cox",
     "downloadUrl": null,
     "icon": "336.png",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=336"
@@ -3088,11 +3088,24 @@
     "authorUrl": null,
     "category": "Text manipulation",
     "description": "RC4 is a symmetric key stream cipher designed by RSA. It's older than Blowfish but more reliable and faster to use.",
-    "filename": "temp-rc4.cox",
+    "filename": "rc4.cox",
     "downloadUrl": null,
     "icon": "289.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=289"
   },
+{
+  "id": 1787,
+  "name": "Clan Sound",
+  "version": null,
+  "author": "Olle Fredriksoon",
+  "authorUrl": null,
+  "category": "Sound & Music",
+  "description": "Uses Clanlib to play sounds",
+  "filename": "ClanSound",
+  "downloadUrl": null,
+  "icon": null,
+  "sourceUrl": null
+},
   {
     "id": 25,
     "name": "Real Time Strategy object",
@@ -3855,10 +3868,23 @@
     "authorUrl": null,
     "category": "Windows controls/dialogues",
     "description": "This control can give scroll arrows to other window controls in your application and has advanced number input functions dealing with the Edit Object. Also known as a spin control.",
-    "filename": "temp-updown.cox",
+    "filename": "updown.cox",
     "downloadUrl": null,
     "icon": "temp-updown.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=57"
+  },
+  {
+  "id": 1785,
+  "name": "Rot-mos",
+  "version": null,
+  "author": "unknown",
+  "authorUrl": null,
+  "category": "System",
+  "description": "Rot-mos.cox",
+  "filename": "Rot-mos.cox",
+  "downloadUrl": null,
+  "icon": null,
+  "sourceUrl": null
   },
   {
     "id": 143,
@@ -3912,6 +3938,45 @@
     "icon": "173.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=173"
   },
+{
+  "id": 1789,
+  "name": "ASP High score engine pro",
+  "version": null,
+  "author": "Barrysoft",
+  "authorUrl": null,
+  "category": "Game objects",
+  "description": "High score engine - ASPHSEPRO.cox",
+  "filename": "ASPHSEPRO.cox",
+  "downloadUrl": null,
+  "icon": null,
+  "sourceUrl": null
+},
+{
+  "id": 1791,
+  "name": "How Big Object",
+  "version": null,
+  "author": "banjaxx",
+  "authorUrl": null,
+  "category": "Game objects",
+  "description": "How Big",
+  "filename": "howbig.cox",
+  "downloadUrl": null,
+  "icon": null,
+  "sourceUrl": null
+},
+{
+  "id": 1793,
+  "name": "Flame Object",
+  "version": null,
+  "author": "David C (Alien)",
+  "authorUrl": null,
+  "category": "Graphical",
+  "description": "Creates graphical flames. Lots of options",
+  "filename": "Flame.cox",
+  "downloadUrl": null,
+  "icon": null,
+  "sourceUrl": null
+},
   {
     "id": 312,
     "name": "Virtual Key object",
@@ -3920,7 +3985,7 @@
     "authorUrl": null,
     "category": "Input",
     "description": "Detects input of any mouse/keyboard button.",
-    "filename": "temp-virtualkey.cox",
+    "filename": "virtualkey.cox",
     "downloadUrl": null,
     "icon": "312.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=312"
