@@ -1723,7 +1723,7 @@
     "authorUrl": null,
     "category": "Game objects",
     "description": "A very powerful pathfinding object. You can set it to allow diagonal movement and give each cell in the map a specific weight for intelligent pathfinding.",
-    "filename": "Grid.cox",
+    "filename": "MMKGrid.cox",
     "downloadUrl": null,
     "icon": "212.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=212"
