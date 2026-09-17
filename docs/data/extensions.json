@@ -1642,7 +1642,7 @@
     "name": "GetLine Object",
     "version": "1.0",
     "author": "Joshtek",
-    "authorUrl": null,
+    "authorUrl": "https://kliktopia.org/index.html",
     "category": "Data Storage",
     "description": "Allows easy access to a specific line of a text file through an expression. Can also determine how many lines a specific text file consists of.",
     "filename": "GetLine.cox",
