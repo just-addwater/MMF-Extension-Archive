@@ -2336,7 +2336,7 @@
     "description": "This is a powerful extension that allows you to create MDI interfaces in your applications.",
     "filename": "mdi.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/MDI.exe",
-    "icon": "mdi.gif",
+    "icon": "mdi_401.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=7"
   },
   {
@@ -3558,7 +3558,7 @@
     "description": "The Strategy object is an aid for strategy game AI, but could be used for other purposes too. The object records attack information and how successful each tactic has been. Then, it can pick random ta...",
     "filename": "strategy.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/StrategyObject.zip",
-    "icon": null,
+    "icon": "Strategy_401.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=27"
   },
   {
@@ -3948,7 +3948,7 @@
   "description": "Rot-mos.cox",
   "filename": "Rot-mos.cox",
   "downloadUrl": null,
-  "icon": null,
+  "icon": "rotmos.png",
   "sourceUrl": null
   },
   {
@@ -4065,7 +4065,7 @@
     "description": "This object was a hack of the Search object and was supposed to scan files/directories for viruses. It will not be available for download.",
     "filename": "vscan.cox",
     "downloadUrl": null,
-    "icon": null,
+    "icon": "vscan_401.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=174"
   },
   {
@@ -4416,7 +4416,7 @@
     "description": ".",
     "filename": "GSTINGS.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/SJi%20Global%20Strings%20Object.zip",
-    "icon": null,
+    "icon": "GSTRINGS_401.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
   },
  {
@@ -4455,7 +4455,7 @@
     "description": "Send SMS text messages from your C4SMS.com account.",
     "filename": "sendsms.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/sendsms.zip",
-    "icon": null,
+    "icon": "SendSMS_401.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=227"
   },
  {
