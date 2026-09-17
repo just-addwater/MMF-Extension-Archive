@@ -4012,8 +4012,8 @@
   "category": "Game objects",
   "description": "High score engine - ASPHSEPRO.cox",
   "filename": "ASPHSEPRO.cox",
-  "downloadUrl": "ASPHSEPRO_401.gif",
-  "icon": null,
+  "downloadUrl": null,
+  "icon": "ASPHSEPRO_401.gif",
   "sourceUrl": null
 },
 {
