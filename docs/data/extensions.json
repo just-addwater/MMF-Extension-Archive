@@ -1179,7 +1179,7 @@
     "description": "This object was designed to keep objects lined up. you can also download the source for yourself at the Extension Wiki. 2.0: Doesn't crash if the object is not \"filled\", previous error pr...",
     "filename": "docklet.cox",
     "downloadUrl": "https://github.com/just-addwater/MMF-Extension-Archive/blob/main/docs/downloads/docklet.exe",
-    "icon": "dmc_401.gif"",
+    "icon": "dmc_401.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=263"
   },
   {
@@ -1646,7 +1646,7 @@
     "category": "Data Storage",
     "description": "Allows easy access to a specific line of a text file through an expression. Can also determine how many lines a specific text file consists of.",
     "filename": "GetLine.cox",
-    "downloadUrl": "GetLine_401.gif",
+    "downloadUrl": null,
     "icon": "getline.jpg",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=370"
   },
