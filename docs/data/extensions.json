@@ -1647,7 +1647,7 @@
     "description": "Allows easy access to a specific line of a text file through an expression. Can also determine how many lines a specific text file consists of.",
     "filename": "GetLine.cox",
     "downloadUrl": null,
-    "icon": "getline.jpg",
+    "icon": "GetLine_401.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=370"
   },
   {
