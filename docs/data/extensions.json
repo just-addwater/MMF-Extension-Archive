@@ -1241,8 +1241,8 @@
     "author": "Herb",
     "authorUrl": "https://web.archive.org/web/20041206211123/http://herbdx.spatang.com/extensions.htm",
     "category": "System",
-    "description": "Can get a label from any drive, eg: C:\\ . Missing: drivelabel.cox",
-    "filename": "temp-drivelabel.cox",
+    "description": "Can get a label from any drive, eg: C:\\ ",
+    "filename": "drivelabel.cox",
     "downloadUrl": null,
     "icon": "drivelab.PNG",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=333"
