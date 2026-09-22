@@ -1541,7 +1541,7 @@
     "authorUrl": "https://web.archive.org/web/20030906190817fw_/http://www.freewebs.com/amnesia/extensions.htm",
     "category": "Data Storage",
     "description": "Add 100 flags and 1000 values to your apps.",
-    "filename": "temp-262.cox",
+    "filename": "FlagVal.cox",
     "downloadUrl": null,
     "icon": "262.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=262"
@@ -3569,7 +3569,7 @@
     "authorUrl": null,
     "category": "Text manipulation",
     "description": "Compare two strings and return the number of similar or different characters between them.",
-    "filename": "temp-219.cox",
+    "filename": "StringC.cox",
     "downloadUrl": null,
     "icon": "219.gif",
     "sourceUrl": "https://web.archive.org/web/20060213101209/http://www.clickteam.info/extensions/extview.php?id=219"
