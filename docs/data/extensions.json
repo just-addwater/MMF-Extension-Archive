@@ -91,6 +91,19 @@
   "sourceUrl": null
 },
 {
+  "id": 4591,
+  "name": "Make My Game For Me Object",
+  "version": null,
+  "author": "Tigerworks",
+  "authorUrl": "https://web.archive.org/web/20030204054526/http://www.tigerworks.co.uk/",
+  "category": "Game objects",
+  "description": "A april fools joke by tigerworks around 2004. Adds a breakout style game.",
+  "filename": "Game.cox",
+  "downloadUrl": null,
+  "icon": "mygame.png",
+  "sourceUrl": null
+},
+{
   "id": 1499,
   "name": "nobu http object",
   "version": null,
